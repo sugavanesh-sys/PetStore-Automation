@@ -11,6 +11,7 @@
     <build>
     <pluginManagement>
     <plugins>
+        <!-- Below 2 plugins are for running the tests via pom.xml -->
         <plugin><!-- Maven Surefire plugin -->
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-surefire-plugin</artifactId>
